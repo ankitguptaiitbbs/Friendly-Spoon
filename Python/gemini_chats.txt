@@ -1,0 +1,2 @@
+Basic Syntax: https://gemini.google.com/share/7cf33f02ff85
+Variable and Data Types
